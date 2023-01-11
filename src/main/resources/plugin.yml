@@ -1,0 +1,7 @@
+name: dwriter
+version: '${project.version}'
+main: de.pandaxpaul.dwriter.main
+api-version: 1.19
+authors: [ pandaxpaul ]
+description: when a player writes "L" or "du stinkst"
+website: https://pandaxpaul.de
